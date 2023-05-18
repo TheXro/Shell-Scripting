@@ -31,6 +31,7 @@ Also for a python script we use `./bin/python3`.
 
 # execution
 to execute a script we type `./script.sh` 
+
 always make sure to check you have proper permission (can be changed by using chmod).
 
 
